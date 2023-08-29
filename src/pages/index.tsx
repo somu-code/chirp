@@ -45,7 +45,7 @@ export default function Home() {
           <p className="text-2xl text-white">
             {hello.data ? hello.data.greeting : "Loading tRPC query..."}
           </p>
-          <h1 className="text-2xl text-white font-semibold">Hello, again</h1>
+          <h1 className="text-2xl text-white font-semibold">Hello, once again</h1>
         </div>
       </main>
     </>
